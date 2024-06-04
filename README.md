@@ -1,0 +1,1 @@
+This is a minimal reproducible example for troubleshooting the behavior of `renv::update()` when different versions of a package are available in different repos specified in `options()` and `renv.lock`.
